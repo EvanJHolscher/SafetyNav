@@ -29,3 +29,9 @@ A web-application that provides safety scores for real-world navigation.
 ## Information Displays:
 - **Safety Score (bottom left):** Shows the crime score calculated by the Distance-Point algorithm for each coordinate along the route. A lower number represents a smaller chance of crime occurring.
 - **AI Score (bottom right):** Shows the crime score calculated by the DBScan clustering algorithm for the dataset. A higher number represents a prediction of a stronger chance for a crime along the route.
+
+# Project Demonstration
+
+## Video Demonstration
+1. You can watch the demonstration of the project in action by clicking [here](https://youtu.be/zd_xY9ySiqg).
+2. A seperate video demonstrates the external links, such as the Google Form that will be used for bug reports [here](https://youtu.be/N8Ms3ZNtRDo).
